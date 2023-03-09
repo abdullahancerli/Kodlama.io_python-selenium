@@ -1,0 +1,26 @@
+1) Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+ 
+ python programlama dilinde 4 tür veri tipi vardır bunlar;
+ 	* string
+ 	* integer
+ 	* float
+ 	* bool
+ 	
+ * String = Metinsel ifadelerin tutulduğu veri tipidir. tırnak işaretleri ("") içerisine yazılır. (ör: "abdullah", "kodlama.io" vb.)
+ * İnteger = Genellikle int olarak bilinir. Tam sayıların tutulduğu veri tipidir. (ör: 10, 41, 5 vb.)
+ * Float = Ondalıklı sayıların tutlduğu veri tipidir. (ör: 16.5, 10.0 vb.)
+ * Bool = Mantıksal bir veri tipidir. True ve False değeri alır. (ör: deneme = True)
+ 
+ ---------------------------------------------------**********-----------------------------------------------------------------------
+
+2) Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+
+Bakıldığında büyük kısmın string değer olduğunu anlıyrouz (ör: ödev1 vb.), integer degerler olarak 100% değeri karşımıza çıkıyor.
+
+ ---------------------------------------------------**********-----------------------------------------------------------------------
+ 
+3) Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+
+Bitir ve devam et'e tıkladıgımızda o dersin tamamlanıp başka ödeve geçmesi. 
+ödevlerin Tamamlanması ile tamamlanma durumunun 100 olması 
+ayarlar kısmı 
